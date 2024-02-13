@@ -35,18 +35,19 @@
  
  .logo{
     width: auto;
-    height: 400px;
+    height: 300px;
  }
 
  .neon{
     font-size: 60px;
     text-shadow: 0 0 5px #ffc107, 0 0 15px #ffc107, 0 0 30px #ffc107, 0 0 50px #ffc107;
+    margin-top: 2rem;
     margin-bottom: 2rem;
     font-family: 'Neonderthaw', cursive;
  }
  .container2{
-    margin-top: 7rem;
-    margin-bottom: 5rem;
+    margin-top: 8rem;
+    margin-bottom: 3rem;
     text-align: center;
     color: white;
  }
@@ -66,7 +67,7 @@
     background: rgba(0, 0, 0, .55);
     border-radius: 60px ;
     border-color: #ffc107;
-    margin: 8rem 1rem 1rem 1rem;
+    margin: 10rem 1rem 1rem 1rem;
     padding: 1rem 1rem 1rem 1rem;
  }
  
@@ -149,3 +150,7 @@
    font-size: 16px;
 }
 
+.elementoListaBebidas2{
+   color: #ffc107;
+   font-size: 19px;
+}
