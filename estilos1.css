@@ -7,9 +7,7 @@
 
  body{
    background-image: url(carta1111/fondo.jpg);
-   background-position: center center;
-   background-attachment: fixed;
-   background-size: cover;
+   background-size: contain;
 
  }
  
@@ -36,8 +34,8 @@
  }
  
  .logo{
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
  }
 
  .neon{
@@ -47,7 +45,8 @@
     font-family: 'Neonderthaw', cursive;
  }
  .container2{
-    margin-top: 5rem;
+    margin-top: 7rem;
+    margin-bottom: 5rem;
     text-align: center;
     color: white;
  }
