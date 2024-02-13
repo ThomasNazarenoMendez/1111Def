@@ -34,7 +34,7 @@
  }
  
  .logo{
-    width: 400px;
+    width: auto;
     height: 400px;
  }
 
@@ -45,7 +45,8 @@
     font-family: 'Neonderthaw', cursive;
  }
  .container2{
-    margin-top: 5rem;
+    margin-top: 7rem;
+    margin-bottom: 5rem;
     text-align: center;
     color: white;
  }
