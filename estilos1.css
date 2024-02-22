@@ -154,3 +154,44 @@
    color: #ffc107;
    font-size: 19px;
 }
+
+
+.elementoListaGin{
+   color: #ffc107;
+   font-size: 16px;
+}
+
+.tituloCervezas{
+   color: #ffc107;
+   font-size: 35px;
+}
+
+.listaDaikiri2{
+   margin-top: -1rem;
+   font-size: 15px;
+   color: white;
+}
+
+.punto{
+   margin-top: -1rem;
+   font-size: 15px;
+   color: black;
+}
+.puntoa{
+   margin-top: -1rem;
+   margin-bottom: 0.5rem;
+   font-size: 15px;
+   color: black;
+}
+
+.puntob{
+   margin-top: -1.3rem;
+   font-size: 15px;
+   color: black;
+}
+
+.puntoc{
+   margin-bottom: -2rem;
+   font-size: 15px;
+   color: black;
+}
