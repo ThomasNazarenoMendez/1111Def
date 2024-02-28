@@ -5,6 +5,8 @@
     list-style: none;
  }
 
+
+ 
  body{
    background-image: url(carta1111/fondo.jpg);
    background-size: contain;
@@ -64,7 +66,7 @@
     text-align: center;
     font-family: 'Italiana', sans-serif;
     color: #ffc107;
-    background: rgba(0, 0, 0, .55);
+    background: rgba(0, 0, 0, .75);
     border-radius: 60px ;
     border-color: #ffc107;
     margin: 10rem 1rem 1rem 1rem;
@@ -86,7 +88,7 @@
     font-family: 'Italiana', sans-serif;
     color: #ffc107;
     margin-top: 5rem;
-    background: rgba(0, 0, 0, .55);
+    background: rgba(0, 0, 0, .75);
     border-radius: 30px ;
     border-color: #ffc107;
     font-size: 20px;
@@ -114,7 +116,7 @@
    text-align: center;
    font-family: 'Italiana', sans-serif;
    color: #ffc107;
-   background: rgba(0, 0, 0, .80);
+   background: rgba(0, 0, 0, .75);
    border-radius: 60px;
    border-color: #ffc107;
    margin: 3rem 5rem 1rem 5rem;
@@ -124,7 +126,7 @@
 .listasBebidas {
     font-family: 'Italiana', sans-serif;
     color: #ffc107;
-    background: rgba(0, 0, 0, .55);
+    background: rgba(0, 0, 0, .75);
     border-radius: 30px;
     font-size: 20px;
     font-style: italic;
@@ -147,7 +149,7 @@
 
 .elementoLimonadas{
    color: #ffc107;
-   font-size: 16px;
+   font-size: 15px;
 }
 
 .elementoListaBebidas2{
@@ -155,6 +157,10 @@
    font-size: 19px;
 }
 
+.elementoListaBebidas3{
+   color: #ffc107;
+   font-size: 18px;
+}
 
 .elementoListaGin{
    color: #ffc107;
@@ -163,7 +169,7 @@
 
 .tituloCervezas{
    color: #ffc107;
-   font-size: 35px;
+   font-size: 37px;
 }
 
 .listaDaikiri2{
@@ -172,26 +178,28 @@
    color: white;
 }
 
-.punto{
-   margin-top: -1rem;
-   font-size: 15px;
-   color: black;
-}
-.puntoa{
-   margin-top: -1rem;
-   margin-bottom: 0.5rem;
-   font-size: 15px;
-   color: black;
+
+
+.precios{
+   font-size: 35px;
+   margin-top: -2rem;
+   text-align: center;
 }
 
-.puntob{
-   margin-top: -1.3rem;
-   font-size: 15px;
-   color: black;
+.extras{
+   font-size: 25px;
+   margin-bottom: 1rem;
+   text-align: center;
 }
 
-.puntoc{
-   margin-bottom: -2rem;
-   font-size: 15px;
-   color: black;
+.preciosExtras{
+   font-size: 28px;
+   margin-top: -1rem;
+   text-align: center;
 }
+
+.h2{
+   font-size: 37px;
+}
+
+
