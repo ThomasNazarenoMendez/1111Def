@@ -192,6 +192,27 @@
    text-align: center;
 }
 
+<<<<<<< HEAD
+=======
+.puntoc{
+   margin-bottom: -2rem;
+   font-size: 15px;
+   color: black;
+}
+
+.precios{
+   font-size: 35px;
+   margin-top: -2rem;
+   text-align: center;
+}
+
+.extras{
+   font-size: 25px;
+   margin-bottom: 1rem;
+   text-align: center;
+}
+
+>>>>>>> 1edfcff07e4aaa272cff92be3a2c781a232206ea
 .preciosExtras{
    font-size: 28px;
    margin-top: -1rem;
@@ -202,4 +223,10 @@
    font-size: 37px;
 }
 
+<<<<<<< HEAD
 
+=======
+.fantasia{
+   font-size: 18px;
+}
+>>>>>>> 1edfcff07e4aaa272cff92be3a2c781a232206ea
